@@ -1,5 +1,7 @@
 # CS-31-
 
+#FILES TO BE UPLOADED BY JAN 1 
+
 In Smallberg we trust.
 
 In my first quarter at UCLA, I took CS 31: Introduction to Computer Science, a mandatory class for all first year computer science students. 
