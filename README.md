@@ -1,6 +1,6 @@
 # CS-31-
 
-#FILES TO BE UPLOADED BY JAN 1 
+# FILES TO BE UPLOADED BY JAN 1 
 
 In Smallberg we trust.
 
